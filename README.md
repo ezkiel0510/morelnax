@@ -10,3 +10,8 @@
 # reference
 	1-	https://www.youtube.com/c/HighTechLowIQ
 	2-	Loot filter & font from Korean guys i don't remember (sorry)
+
+# drop-list
+	1-	Quill Rat	Set Noble (Helmet, Armor, Sword, Shield)
+	2-	Griswold	Unique Noble (Gauntlets, Plate Belt, Greaves)
+	3-	Countess	New Runes (r50, r51, r52, r53) for Runeword Elite Four (4 socket melee weapon)
