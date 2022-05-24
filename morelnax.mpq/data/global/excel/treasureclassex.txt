@@ -704,7 +704,7 @@ Summoner (H)			5	900	900	972	1024	19	gld,mul=2048	9	Act 2 (H) Equip C	15	Act 3 (
 Council			3	650	800	800	1024	19	gld,mul=1280	9	Act 4 Equip A	15	Act 4 Junk	5	Act 4 Good	3	Act 4 Magic A	4														0
 Council (N)			3	650	800	800	1024	19	gld,mul=1536	9	Act 4 (N) Equip A	15	Act 4 (N) Junk	5	Act 4 (N) Good	3	Act 4 (N) Magic A	4														0
 Council (H)			3	650	800	800	1024	19	gld,mul=2048	9	Act 4 (H) Equip A	15	Act 4 (H) Junk	5	Act 4 (H) Good	3	Act 4 (H) Magic A	4														0
-Griswold			4					0	r50	20	r51	20	r52	20	r53	20																0
+Griswold			3	1024				0	ngl	20	nbt	20	nbl	20																		0
 Griswold (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Griswold (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Cow			1					100	gld	19	Act 5 Equip A	19	Act 5 Junk	19	Act 5 Good	3																0
@@ -842,7 +842,7 @@ Countess Rune (H)			3					5	Runes 12	15																						0
 Countess Item			5					19	gld,mul=1280	11	Act 1 Equip C	19	Act 2 Junk	15	Act 2 Good	3																0
 Countess Item (N)			5					19	gld,mul=1536	11	Act 1 (N) Equip C	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
 Countess Item (H)			5					19	gld,mul=2048	11	Act 1 (H) Equip C	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	pk1	1														0
-Countess			-2	883	883	883	1024	0	Countess Item	1	Countess Rune	1																				0
+Countess			4					0	r50	20	r51	20	r52	20	r53	20																0
 Countess (N)			-2	883	883	983	1024	0	Countess Item (N)	1	Countess Rune (N)	1																				0
 Countess (H)			-2	883	883	983	1024	0	Countess Item (H)	1	Countess Rune (H)	1																				0
 Uber Andariel			1	1024				0	dhn	1																						0
