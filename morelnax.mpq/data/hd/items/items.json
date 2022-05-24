@@ -658,10 +658,15 @@
   { "bet": { "asset": "quest/burning_essence_of_terror" } },
   { "fed": { "asset": "quest/festering_essence_of_destruction" } },
   { "std": { "asset": "body_part/flag" } },
+
   { "nba": { "asset": "armor/noble_armour" } },
   { "nhm": { "asset": "helmet/noble_helm" } },
   { "nsh": { "asset": "shield/noble_shield" } },
   { "nbs": { "asset": "sword/noble_sword" } },
+  { "nbl": { "asset": "belt/girdle_h" } },
+  { "ngl": { "asset": "glove/gaunlets_h" } },
+  { "nbt": { "asset": "boot/plate_boots" } },
+
   { "r50": { "asset": "rune/ber_rune" } },
   { "r51": { "asset": "rune/jah_rune" } },
   { "r52": { "asset": "rune/cham_rune" } },
