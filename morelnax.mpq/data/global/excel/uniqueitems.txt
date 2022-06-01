@@ -402,5 +402,8 @@ Rainbow Facet	398	100	1		1		85	49	jew	jewel		3	5000								dmg-fire		17	45	pierc
 Rainbow Facet	399	100	1		1		85	49	jew	jewel		3	5000								dmg-pois	50	187	187	pierce-pois		3	5	extra-pois		3	5	levelup-skill	Venom	100	23																																		0
 Hellfire Torch	400	100	1		1		110	75	cm2	charm	1	3	5000			flptrch	invtrch	item_gem	12	item_gem	randclassskill		0	6	all-stats		10	20	res-all		10	20	light		8	8	hit-skill	197	5	10	charged	Hydra	10	30																										0
 Gang Ne Em	1000	0	1		1		1	1	ngl	Noble Gauntlets		3	5000	blac	blac						swing2		105	105	cast2		105	105	rip		1	1	deadly/lvl		7	7	extra-cold		100	100	extra-fire		100	100	extra-ltng		100	100	extra-pois		100	100																		
-Giay Ne Em	1000	0	1		1		1	1	nbt	Noble Greaves		3	5000	blac	blac						move2		40	40	stam		1000	1000	heal-kill		150	200	mana-kill		150	200	pierce-cold		100	100	pierce-fire		100	100	pierce-ltng		100	100	pierce-pois		100	100																		
-Nit Ne Em	1000	0	1		1		1	1	nbl	Noble Plate Belt		3	5000	blac	blac						balance2		105	105	light		20	20	dmg-elem		100	100	all-stats		150	200	abs-cold/lvl		7	7	abs-fire/lvl		7	7	abs-ltng/lvl		7	7	abs-pois/lvl		7	7																		
+Giay Ne Em	1001	0	1		1		1	1	nbt	Noble Greaves		3	5000	blac	blac						move2		40	40	stam		1000	1000	heal-kill		150	200	mana-kill		150	200	pierce-cold		100	100	pierce-fire		100	100	pierce-ltng		100	100	pierce-pois		100	100																		
+Nit Ne Em	1002	0	1		1		1	1	nbl	Noble Plate Belt		3	5000	blac	blac						balance2		105	105	light		20	20	dmg-elem		100	100	all-stats		150	200	abs-cold/lvl		7	7	abs-fire/lvl		7	7	abs-ltng/lvl		7	7	abs-pois/lvl		7	7																		
+Day Chuyen Ne Em	1003	100	1		1		1	1	amu	Amulet		5	5000	bwht	bwht						allskills		2	3	res-all		20	30	all-stats		20	30	aura	Holy Freeze	20	20																																		0
+Nhan Trai Ne Em	1004	0	1		1		1	1	rin	Ring		5	5000	bwht	bwht						allskills		2	3	res-all		20	30	all-stats		20	30	aura	Holy Shock	20	20																																		0
+Nhan Phai Ne Em	1005	0	1		1		1	1	rin	Ring		5	5000	bwht	bwht						allskills		2	3	res-all		20	30	all-stats		20	30	aura	Holy Fire	20	20																																		0
