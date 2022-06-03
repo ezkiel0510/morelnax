@@ -12,6 +12,7 @@
 	2-	Loot filter & font from Korean guys i don't remember (sorry)
 
 # drop-list
-	1-	Quill Rat	Set Noble (Helmet, Armor, Sword, Shield)
-	2-	Griswold	Unique Noble (Gauntlets, Plate Belt, Greaves)
-	3-	Countess	New Runes (r50, r51, r52, r53) for Runeword Elite Four (4 socket melee weapon)
+	Act 1 - Den Of Devil
+		1-	Rogue 1:	Set Noble (Helmet, Armor, Sword, Shield)
+		2-	Rogue 2:	Unique Noble (Gauntlets, Plate Belt, Greaves)
+		3-	Rogue 3:	New Runes (r50, r51, r52, r53) for Runeword Elite Four (4 socket melee weapon)
